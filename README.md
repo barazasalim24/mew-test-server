@@ -1,4 +1,4 @@
 # mew-test-server
-npm install
+1. npm install
 
-node index
+2. node index
